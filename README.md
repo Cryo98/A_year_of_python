@@ -29,12 +29,12 @@ The workflow will be as following:
 | **Day** |        **Project**        | **Date of completion** | **Focus on library** | **Passed** |
 |:-:|:-:|:-:|:-:|:-:|
 | 1 | Random password generator ||_random_||
-| 2 |||||
-| 3 |||||
-| 4 |||||
-| 5 |||||
-| 6 |||||
-| 7 |||||
+| 2 | Seed-based Cryptography ||_random_||
+| 3 | Randomly generated 2D landscape ||_random_||
+| 4 | 8-ball ||_random_||
+| 5 | Poker probability calculator ||_random_||
+| 6 | Simple PvE encounter||_random_||
+| 7 | Guess the number ||_random_||
 | 8 |||||
 | 9 |||||
 | 10 |||||
