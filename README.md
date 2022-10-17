@@ -25,6 +25,11 @@ The workflow will be as following:
 * I can postpone a project only due to severe reasons (ex. important health issues, unavoidable tasks that take from morning to evening etc.)
 * The focus on a library can span multiple weeks if the library is big or has many functionalities.
 
+## Libraries
+* Week 1: _random_
+
+Other libraries to do: numpy, pandas, selenium, asyncio, threading, tkinter, Pillow, pygame, os, secrets
+
 ## Table of projects
 | **Day** |        **Project**        | **Date of completion** | **Focus on library** | **Passed** |
 |:-:|:-:|:-:|:-:|:-:|
